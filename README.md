@@ -20,13 +20,13 @@ Love algorithms.
 
 ## Contact me:
 
---📮:		shaojun.li@live.lagcc.cuny.edu
+--📮:		    shaojun.li@live.lagcc.cuny.edu
 
-​			yur1loverslave@gmail.com
+​			      yur1loverslave@gmail.com
 
 LinkedIn：	yur1loverslave@gmail.com
 
-Medium:	medium.com/@lishaojun1126
+Medium:	    medium.com/@lishaojun1126
 
 
 
