@@ -22,6 +22,8 @@ Love algorithms.
 
 --📮:		shaojun.li@live.lagcc.cuny.edu
 
+        lshaojun1126@gmail.com
+
 LinkedIn：
 
 Medium:	medium.com/@lishaojun1126
