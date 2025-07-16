@@ -20,9 +20,7 @@ Love algorithms.
 
 ## Contact me:
 
---📮:		shaojun.li@live.lagcc.cuny.edu
-
-        lshaojun1126@gmail.com
+email: lshaojun1126@gmail.com
 
 LinkedIn：
 
