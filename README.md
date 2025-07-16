@@ -22,7 +22,7 @@ Love algorithms.
 
 email: lshaojun1126@gmail.com
 
-LinkedIn：
+LinkedIn：www.linkedin.com/in/shaojunli
 
 Medium:	medium.com/@lishaojun1126
 
