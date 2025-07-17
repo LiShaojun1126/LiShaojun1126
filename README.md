@@ -4,11 +4,7 @@ WELCOME TO MY GITHUB PROFILE !!!
 
 ## About me:
 
-A student(not a quick one).
-
-I am currently studying frontend.
-
-Love algorithms.
+There is nothing
 
 ## My Skills(including currently learning):
 
